@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "0.32.0",
+  "stream": "true",
+  "command": {
+    "version": {
+      "message": "chore(release): %s"
+    }
+  }
+}
+
